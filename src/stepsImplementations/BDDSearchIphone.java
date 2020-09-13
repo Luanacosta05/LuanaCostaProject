@@ -3,7 +3,6 @@ package stepsImplementations;
 import cucumber.api.java.en.When;
 import cucumber.api.java.en.Then;
 
-import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 import java.io.BufferedReader;
@@ -18,9 +17,6 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.ExpectedCondition;
-import org.openqa.selenium.support.ui.WebDriverWait;
-
 import cucumber.api.java.en.And;
 
 public class BDDSearchIphone {
