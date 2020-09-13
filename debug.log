@@ -1,0 +1,4 @@
+[0909/205201.485:ERROR:process_info.cc(359)] UncheckedAllocate
+[0910/181058.640:ERROR:process_info.cc(329)] VirtualQueryEx: Acesso negado. (0x5)
+[0910/181058.644:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0910/181058.644:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)
